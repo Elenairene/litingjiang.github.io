@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aerospace Information Research Institute, Chinese Academy of Sciences, 2026 (expected)
+  * Signal and Information Processing: Stereo Matching, 3D reconstruction, DSM refinement, super resolution reconstruction of Remote Sensing
+* B.S. in Electronic Engineering Department, Tsinghua University, 2021
+  * Electronic Information Science & Technology
 
-Work experience
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -31,21 +32,27 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Skills
+======
+* Programming:
+  * Python
+  * C++
+  * Matlab
+  * Mips
+  * VHDL
+  * JAVA
+* Language Skills
+  * Chinese(Parent Language)
+  * English(Advanced: Accessible Business Conversation)
+  * French(Intermediate: Daily conversation)
+* 
   
 Talks
 ======
