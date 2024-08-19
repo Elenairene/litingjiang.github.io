@@ -52,20 +52,14 @@ Skills
   * Chinese(Parent Language)
   * English(Advanced: Accessible Business Conversation)
   * French(Intermediate: Daily conversation)
-* 
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* High School Physics Teacher Certificate
+* Organizational and presentation ability
+  * Narrator of museum, Chinese Academy of Sciences and Two Bombs and One Star Memorial Hall, 2021.9-now <https://glory.ucas.edu.cn/index.php?option=com_content&view=article&id=968:2021-5-13&catid=25&Itemid=174>
+  * Head of Press Corps of the Social Practice Department, Tsinghua University, 2020.9-2021.7
+  * Deputy Secretary, Social Practice Department of EE Department, Tsinghua Univeristy, 2020.7-2021.7
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Teaching Assistant:
+  Teaching assistant of Optoelectronics Practice, Tsinghua University, 2020.11-2021.2
+* One-on-one tutoring of High School Physics, Zhuochuang Education Co.,Ltd., 2021.8-2021.10
