@@ -36,9 +36,8 @@ Research Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <Detector-Free Feature Matching for Optical and SAR Images Based on a Two-Step Strategy>{https://ieeexplore.ieee.org/abstract/document/10549529}
+   
   
 Skills
 ======
