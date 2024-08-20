@@ -47,8 +47,8 @@ Publications
 
   Photogrammetric DSM Refinement via Learning Multi-scale and Domain-invariant Semantic Feature
 
-  Wang, X.*, **Jiang, L.***, Xiang, Y., Jiao, N., Yang, W., Wang, F.,& You, H. (2024). Photogrammetric DSM Refinement via Learning Multi-scale and Domain-invariant Semantic Feature. will be submitted to IEEE Transactions on Geoscience and Remote Sensing
-  * equal contribution
+  Wang, X.*, **Jiang, L.\***, Xiang, Y., Jiao, N., Yang, W., Wang, F.,& You, H. (2024). Photogrammetric DSM Refinement via Learning Multi-scale and Domain-invariant Semantic Feature. will be submitted to IEEE Transactions on Geoscience and Remote Sensing
+  * \*equal contribution
 
   [Detector-Free Feature Matching for Optical and SAR Images Based on a Two-Step Strategy](https://ieeexplore.ieee.org/abstract/document/10549529)
   
