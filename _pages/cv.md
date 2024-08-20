@@ -19,20 +19,20 @@ Education
 
 Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* PhD researcher, 2021.9-now
+  * Chinese Academy of Sciences
+  * Supervisor: [Hongjian You](https://people.ucas.edu.cn/~hjyou), [Yuming Xiang](https://xym2009.github.io/) 
+  * Stereo matching using unsupervised learning method, Key factors study of stereo matching, DSM refinement via multi-scale and domain-invariant semantic features, Super resolution reconstruction of remote sensing images.
+  
+* 2020.10-2021.6: Research Assistant
+  * Tsinghua University, Department of Electronic Engineering
+  * Research: Laser-induced breakdown spectroscopy for soil type identification, neural network clustering for spectral information. 
+  * Supervisor: Xiaohong Ma
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.9-2020.9: Research Assistant
+  * Tsinghua University, Department of Psychology
+  * Research: Analyzing and predicting viewer psychology based on viewer pop-up vocabulary in social media videos.
+  * Supervisor: Dan Zhang
 
 Publications
 ======
