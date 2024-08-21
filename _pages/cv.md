@@ -13,6 +13,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Aerospace Information Research Institute, Chinese Academy of Sciences, 2026 (expected)
+  * GPA:3.81/4.0
   * Signal and Information Processing: Stereo Matching, 3D reconstruction, DSM refinement, super resolution reconstruction of Remote Sensing
 * B.S. in Electronic Engineering Department, Tsinghua University, 2021
   * Electronic Information Science & Technology
@@ -43,7 +44,7 @@ Publications
 
   [Unsupervised Stereo Matching Network For VHR Remote Sensing Images Based On Error Prediction](https://arxiv.org/abs/2408.07419)
   
-  **Jiang, L.**, Xiang, Y., Wang, F., & You, H. (2024). Unsupervised Stereo Matching Network For VHR Remote Sensing Images Based On Error Prediction. arXiv preprint arXiv:2408.07419. accepted by International Geoscience and Remote Sensing Symposium (IGARSS), 2024
+  **Jiang, L.**, Xiang, Y., Wang, F., & You, H. (2024). Unsupervised Stereo Matching Network For VHR Remote Sensing Images Based On Error Prediction. arXiv preprint arXiv:2408.07419. accepted by International Geoscience and Remote Sensing Symposium (IGARSS) **Oral**, 2024
 
   Photogrammetric DSM Refinement via Learning Multi-scale and Domain-invariant Semantic Feature
 
@@ -78,7 +79,15 @@ Skills
   * Narrator of museum, Chinese Academy of Sciences and Two Bombs and One Star Memorial Hall, 2021.9-now <https://glory.ucas.edu.cn/index.php?option=com_content&view=article&id=968:2021-5-13&catid=25&Itemid=174>
   * Head of Press Corps of the Social Practice Department, Tsinghua University, 2020.9-2021.7
   * Deputy Secretary, Social Practice Department of EE Department, Tsinghua Univeristy, 2020.7-2021.7
-  
+
+Honors and Awards
+======
+* Merit Student of the University of Chinese Academy of Sciences, Chinese Academy of Sciences, Year 2021-2022
+* Scholarships of Outstanding Freshmen, Chinese Academy of Sciences, Year 2021
+* Alumni Scholarship of Electronic Engineering Department, Year 2020
+* School Academic Scholarship, Year 2018,2019,2020
+* Tsinghua Alumni-Huang Qianheng Scholarship, Year 2018
+
 Teaching
 ======
 * Teaching Assistant:
